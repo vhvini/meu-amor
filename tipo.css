@@ -1,0 +1,23 @@
+body {
+	background: #A9F5F2 ;
+}
+
+
+#texto {
+	
+	font: bold 17px "Lucida Console", "Lucida Handwriting", Monospace ;
+	
+	
+}
+
+#conteudo {
+	background: #58FAF4;
+	padding: 18px;
+	width: 1474px;
+}
+
+
+
+.centralizado {
+	text-align: center;
+}
